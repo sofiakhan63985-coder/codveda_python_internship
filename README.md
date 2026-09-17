@@ -230,13 +230,13 @@ The projects helped me gain practical experience in Python programming, problem-
 ## 🔗 Links
 
 **GitHub Repository:**
-[Add your GitHub repository link here]
+
 
 **LinkedIn Profile:**
-[Add your LinkedIn profile link here]
+
 
 **Project Demonstration Video:**
-[Add your LinkedIn/project video link here]
+
 
 ## 🙏 Acknowledgement
 
