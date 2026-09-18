@@ -230,10 +230,10 @@ The projects helped me gain practical experience in Python programming, problem-
 ## 🔗 Links
 
 **GitHub Repository:**
-
+https://github.com/sofiakhan63985-coder/codveda_python_internship/pull/1
 
 **LinkedIn Profile:**
-
+https://www.linkedin.com/in/sofiya-khan-45a88237a 
 
 **Project Demonstration Video:**
 
