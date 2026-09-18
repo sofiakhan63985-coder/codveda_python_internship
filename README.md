@@ -9,7 +9,7 @@ This repository contains the projects I developed during my internship as part o
 * **Internship Organization:** Codveda Technology
 * **Domain:** Python Development
 * **Intern:** Sofiya
-* **Internship Batch:** 
+* **Internship Batch:** august batch
 * **Internship Duration:** 27 august to 27 september
 
 ## 📂 Project Levels
